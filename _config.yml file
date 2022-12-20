@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: Caroline's homepage
+description: Bookmark this to keep an eye on my project updates!
+
 lsi: false
 safe: true
 source: [your repo's top level directory]
